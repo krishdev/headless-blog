@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7bba97ab.css",
+    "main.js": "/static/js/main.746c9299.js",
+    "static/media/404.png": "/static/media/404.8ba5a32c7bee172b94ef.png",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
+    "static/media/home-header.jpg": "/static/media/home-header.70e1a4ca1dc2124a513d.jpg",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.6205fd00fb1b573e9f0f.ttf",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.fb8184add5a3101ad0a3.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.8d3cabfc66809162fb4d.woff2",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.adc51aab4d771ab65f81.ttf",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.e931bc0d14f5bbb1da22.woff2",
+    "static/media/fell-400-normal.woff": "/static/media/fell-400-normal.13dcc08af40de7830c88.woff",
+    "static/media/gt-super-400-normal.woff": "/static/media/gt-super-400-normal.167c5687106645889345.woff",
+    "static/media/sohne-400-italic.woff": "/static/media/sohne-400-italic.74b387e678b2e966d6d6.woff",
+    "static/media/logo.png": "/static/media/logo.3d690982991612270641.png",
+    "static/media/sohne-700-normal.woff": "/static/media/sohne-700-normal.4e98d0a672a49a597fd8.woff",
+    "static/media/sohne-400-normal.woff": "/static/media/sohne-400-normal.d93d3c755958d4f5ed0a.woff",
+    "static/media/sohne-500-normal.woff": "/static/media/sohne-500-normal.d2132715fb410ae1613d.woff",
+    "static/media/source-serif-pro-700-normal.woff": "/static/media/source-serif-pro-700-normal.c3e1f6592165c377f04b.woff",
+    "static/media/content-serif.woff": "/static/media/content-serif.c8d7b5bc545b5bf31c6e.woff",
+    "static/media/source-serif-pro-400-normal.woff": "/static/media/source-serif-pro-400-normal.c8d7b5bc545b5bf31c6e.woff",
+    "static/media/fa-v4compatibility.ttf": "/static/media/fa-v4compatibility.2eb7b3ef25042305f3ff.ttf",
+    "static/media/content-sans-bold.woff": "/static/media/content-sans-bold.2cff9331a5ef5f309291.woff",
+    "static/media/content-sans.woff": "/static/media/content-sans.b9eb02e5a233c4d497b3.woff",
+    "static/media/fa-v4compatibility.woff2": "/static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
+    "index.html": "/index.html",
+    "main.7bba97ab.css.map": "/static/css/main.7bba97ab.css.map",
+    "main.746c9299.js.map": "/static/js/main.746c9299.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7bba97ab.css",
+    "static/js/main.746c9299.js"
+  ]
+}
